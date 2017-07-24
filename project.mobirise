@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -122,7 +122,41 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">RESTAURANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-j\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb3/\">RESTAURANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-j\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-k",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc9044-2000x1334.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "KAMA SUSHI TAKE AWAY",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -141,7 +175,7 @@
           "_anchor": "msg-box5-i",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": 0,
             "parallax": false,
             "bgImageRadio": false,
@@ -182,7 +216,7 @@
               "size": 0
             }
           },
-          "title": "Take away - Meny",
+          "title": "Meny",
           "text": "<b>Menyval</b><br><br>1 Kockens val<br>2 Lax &amp; rullar<br>3 Lax, räkor &amp; rullar<br>4 Lax, avokado &amp; rullar<br>5 Lax, avokado, räkor &amp; rullar<br>6 Räkor &amp; rullar<br>7 Vegetarisk<br>8 Lax<br>9 Räkor eller Lax &amp; räkor<br><br><b>Lunch</b><br><br>Serveras mån-fre kl 11-15.<br>I lunchen ingår: misosoppa, japanskt te samt vatten.<br><br>Priser för menyval 1-7.<br>Liten (8 bitar) 80 kr<br>Mellan (10 bitar) 95 kr<br>Stor (12 bitar) 105 kr<br>8- Lax (8 bitar) 100 kr<br>9- Räkor eller Lax &amp; räkor (8 bitar) 100 kr<br><br><b>Priser</b><br><br>8 bitar 90 kr<br>10 bitar 110 kr<br>12 bitar 120 kr<br>16 bitar 165 kr<br>Lax (8 bitar) 105 kr<br>Räkor (8 bitar) 105 kr<br>Norimaki 6 bitar (Lax, krabbstick, gurka &amp; omelett) 55 kr<br>California 6 bitar <br>(Krabbstick, omelett, gurka, avokado &amp; chilli mayo) 55 kr<br>Philadelphia 6 bitar <br>(Lax, gurka, philadelphiaost, avokado &amp; gräslök) 60 kr<br><br><b>Varmrätter</b><br><br>Yakitori 110 kr<br>Yakiniku 135 kr<br><br><b>Smått</b> <b>&amp; Gott</b><br><br>Spicy Tuna 35 kr<br>Bläckfisksallad 35 kr<br>Sjögrässallad 25 kr<br><br><b>Sashimi</b><br><br>Stor 180 kr<br>Liten 125 kr<br><br><b>Styckpris</b><br><br>Tofu nigiri 15 kr<br>Lax nigiri 18 kr<br>Räkor nigiri 18 kr<br>Omelett nigiri 15 kr<br>Övriga nigiri 18-20 kr<br>Norimaki 12 kr<br><br><b>Dryck</b><br><br>Läsk 15 kr<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
