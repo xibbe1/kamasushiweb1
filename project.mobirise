@@ -19,10 +19,13 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#101010"
+      ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 33,
     "versionPublish": "4.3.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -160,49 +163,197 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "MENY",
+          "meta": "Kama Sushi Storgatan",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            },
-            "H3": {
-              "text-align": "left"
-            }
+          "_name": "header3",
+          "_anchor": "header3-u"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "0",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
           },
-          "_anchor": "msg-box5-i",
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Menyval\n</b></p><p>\n</p><p>1 Kockens val\n</p><p>2 Lax &amp; rullar\n</p><p>3 Lax, räkor &amp; rullar\n</p><p>4 Lax, avokado &amp; rullar\n</p><p>5 Lax, avokado, räkor &amp; rullar\n</p><p>6 Räkor &amp; rullar\n</p><p>7 Vegetarisk\n</p><p>8 Lax\n</p><p>9 Räkor eller Lax &amp; räkor</p>",
+          "text2": "<p><b>Lunch\n</b></p><p>\n</p><p>Serveras mån-fre kl 11-15.\n</p><p>I lunchen ingår: misosoppa, japanskt te samt vatten.</p><p><br></p><p>\n</p><p>\n</p><p>Priser för menyval 1-7.</p><p><br></p><p>\n</p><p>Liten (8 bitar) <b>80 kr\n</b></p><p>Mellan (10 bitar) <b>95 kr\n</b></p><p>Stor (12 bitar) <b>105 kr\n</b></p><p>8- Lax (8 bitar) <b>100 kr\n</b></p><p>9- Räkor eller Lax &amp; räkor (8 bitar) <b>100 kr</b></p>",
+          "text3": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>Varmrätter\n</b></p><p>\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Yakitori<b> </b>110 kr\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Yakiniku 135 kr</p><p><b><br></b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<b>Smått &amp; Gott\n</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Spicy Tuna 35 kr\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Bläckfisksallad 35 kr\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Sjögrässallad 25 kr</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<b>Sashimi\n</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Stor 180 kr\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Liten 125 kr</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-v"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Styckpris\r</b></p><p>Tofu nigiri 15 kr\r</p><p>Lax nigiri 18 kr\r</p><p>Räkor nigiri 18 kr\r</p><p>Omelett nigiri 15 kr\r</p><p>Övriga nigiri 18-20 kr\r</p><p>Norimaki 12 kr</p>",
+          "text2": "<p><b>Dryck\n</b></p><p><b>\n</b></p><p>Läsk 15 kr</p>",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-w"
+        },
+        {
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "33",
-            "paddingTop": "0",
-            "paddingBottom": 0,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/_dsc8886-2000x1334.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#101010",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sushi-308x2054.png",
+              "src": "@PROJECT_PATH@/assets/images/sjgrssallad-1400x933.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -211,14 +362,77 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
-              "size": 0
+              "size": 250
             }
           },
-          "title": "Meny",
-          "text": "<b>Menyval</b><br><br>1 Kockens val<br>2 Lax &amp; rullar<br>3 Lax, räkor &amp; rullar<br>4 Lax, avokado &amp; rullar<br>5 Lax, avokado, räkor &amp; rullar<br>6 Räkor &amp; rullar<br>7 Vegetarisk<br>8 Lax<br>9 Räkor eller Lax &amp; räkor<br><br><b>Lunch</b><br><br>Serveras mån-fre kl 11-15.<br>I lunchen ingår: misosoppa, japanskt te samt vatten.<br><br>Priser för menyval 1-7.<br>Liten (8 bitar) 80 kr<br>Mellan (10 bitar) 95 kr<br>Stor (12 bitar) 105 kr<br>8- Lax (8 bitar) 100 kr<br>9- Räkor eller Lax &amp; räkor (8 bitar) 100 kr<br><br><b>Priser</b><br><br>8 bitar 90 kr<br>10 bitar 110 kr<br>12 bitar 120 kr<br>16 bitar 165 kr<br>Lax (8 bitar) 105 kr<br>Räkor (8 bitar) 105 kr<br>Norimaki 6 bitar (Lax, krabbstick, gurka &amp; omelett) 55 kr<br>California 6 bitar <br>(Krabbstick, omelett, gurka, avokado &amp; chilli mayo) 55 kr<br>Philadelphia 6 bitar <br>(Lax, gurka, philadelphiaost, avokado &amp; gräslök) 60 kr<br><br><b>Varmrätter</b><br><br>Yakitori 110 kr<br>Yakiniku 135 kr<br><br><b>Smått</b> <b>&amp; Gott</b><br><br>Spicy Tuna 35 kr<br>Bläckfisksallad 35 kr<br>Sjögrässallad 25 kr<br><br><b>Sashimi</b><br><br>Stor 180 kr<br>Liten 125 kr<br><br><b>Styckpris</b><br><br>Tofu nigiri 15 kr<br>Lax nigiri 18 kr<br>Räkor nigiri 18 kr<br>Omelett nigiri 15 kr<br>Övriga nigiri 18-20 kr<br>Norimaki 12 kr<br><br><b>Dryck</b><br><br>Läsk 15 kr<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "Sashimi",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-s",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sjgrssallad-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Sjögrässallad",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-t"
         },
         {
           "_tags": [
