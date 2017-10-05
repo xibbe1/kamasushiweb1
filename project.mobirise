@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "versionPublish": "4.3.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -165,44 +165,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-z"
-        },
-        {
-          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             }
@@ -334,12 +296,58 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": false,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Kama Sushi",
+              "authorBio": "User",
+              "text": "<p>\n</p><div><span style=\"font-size: 1.125rem;\">Lunch</span><br></div><div>Serveras mån-fre kl 11-15.\n</div><div>I lunchen ingår: misosoppa, japanskt te samt vatten.\n</div><div>\n</div><div>Priser för menyval 1-7.\n</div><div>\n</div><div>Liten (8 bitar) 80 kr\n</div><div>Mellan (10 bitar) 95 kr\n</div><div>Stor (12 bitar) 105 kr\n</div><div>8- Lax (8 bitar) 100 kr\n</div><div>9- Räkor eller Lax &amp; räkor (8 bitar) 100 kr</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/kama-88x87.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-11"
+        },
+        {
+          "_params": {
             "paddingTop": "0",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text1": "<p><b><br></b></p><p><b>Menyval\n</b></p><p>\n</p><p>1 Kockens val\n</p><p>2 Lax &amp; rullar\n</p><p>3 Lax, räkor &amp; rullar\n</p><p>4 Lax, avokado &amp; rullar\n</p><p>5 Lax, avokado, räkor &amp; rullar\n</p><p>6 Räkor &amp; rullar\n</p><p>7 Vegetarisk\n</p><p>8 Lax\n</p><p>9 Räkor eller Lax &amp; räkor</p>",
-          "text2": "<p><b><br></b></p><p><b>Lunch\n</b></p><p>\n</p><p>Serveras mån-fre kl 11-15.\n</p><p>I lunchen ingår: misosoppa, japanskt te samt vatten.</p><p><br></p><p>\n</p><p>\n</p><p>Priser för menyval 1-7.</p><p><br></p><p>\n</p><p>Liten (8 bitar) <b>80 kr\n</b></p><p>Mellan (10 bitar) <b>95 kr\n</b></p><p>Stor (12 bitar) <b>105 kr\n</b></p><p>8- Lax (8 bitar) <b>100 kr\n</b></p><p>9- Räkor eller Lax &amp; räkor (8 bitar) <b>100 kr</b></p>",
+          "text2": "<p><b><br></b></p><p><b>Styckpris\r</b></p><p>Tofu nigiri 15 kr\r</p><p>Lax nigiri 18 kr\r</p><p>Räkor nigiri 18 kr\r</p><p>Omelett nigiri 15 kr\r</p><p>Övriga nigiri 18-20 kr\r</p><p>Norimaki 12 kr</p>",
           "text3": "<p>&nbsp;&nbsp;&nbsp;&nbsp;</p><p><b>Varmrätter\n</b></p><p>\n</p><p>Yakitori<b> </b>110 kr\n</p><p>Yakiniku 135 kr</p><p><b><br></b></p><p><b>Smått &amp; Gott\n</b></p><p>Spicy Tuna 35 kr\n</p><p>Bläckfisksallad 35 kr\n</p><p>Sjögrässallad 25 kr</p><p><br></p><p><b>Sashimi\n</b></p><p>Stor 180 kr\n</p><p>Liten 125 kr</p>",
           "_tags": [
             "Theme"
@@ -354,51 +362,13 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b><br></b></p><p><b>Priser\n</b></p><p>\n<span style=\"font-size: 1.07rem;\">8 bitar\t<b>90 kr&nbsp;</b></span></p><p>10 bitar\t<b>110 kr\n</b></p><p>12 bitar\t<b>120 kr\n</b></p><p>16 bitar\t<b>165 kr\n</b></p><p>Lax (8 bitar)<b>\t105 kr\n</b></p><p>Räkor (8 bitar)\t<b>105 kr\n</b></p><p>Norimaki 6 bitar (Lax, krabbstick, gurka &amp; omelett)\t<b>55 kr\n</b></p><p>California 6 bitar (Krabbstick, omelett, gurka, avokado &amp; chilli mayo)\t<b>55 kr\n</b></p><p>Philadelphia 6 bitar (Lax, gurka, philadelphiaost, avokado &amp; gräslök)\t<b>60 kr</b></p>",
-          "text2": "<p>\n</p><p><b><br></b></p><p><b>Styckpris\n</b></p><p>Tofu nigiri 15 kr\n</p><p>Lax nigiri 18 kr\n</p><p>Räkor nigiri 18 kr\n</p><p>Omelett nigiri 15 kr\n</p><p>Övriga nigiri 18-20 kr\n</p><p>Norimaki 12 kr</p>",
-          "text3": "<p>\r</p><p><b>Dryck\r</b></p><p>Läsk 15 kr</p>",
+          "text2": "<p>\n</p><p><br></p><p><b>Dryck\r</b></p><p>Läsk 15 kr</p>",
+          "text3": "<p>\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_anchor": "content7-y"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-10"
         },
         {
           "_inherit": "msg-box5",
