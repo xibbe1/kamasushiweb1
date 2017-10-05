@@ -476,9 +476,21 @@ h6,
 #msg-box8-k p {
   color: #fff;
 }
+#msg-box2-z .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-z .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
   text-align: center;
+}
+#msg-box2-10 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-10 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #msg-box4-s H3 {
   color: #ffffff;
