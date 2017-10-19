@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "versionPublish": "4.3.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -127,172 +127,42 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb3/\">RESTAURANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-j\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/golefea94jloz9i/Take%20away%20meny.pdf?dl=1\">MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb3/\">RESTAURANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-j\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-k",
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": 3,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc9044-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc9045-2000x1334.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
           },
-          "title": "KAMA SUSHI TAKE AWAY",
-          "text": "<p>Kama Sushi erbjuder traditionell restaurang såväl som take away för sina kunder mitt i hjärtat av Kalmar vid Stortorget. Restaurangen är en renodlad sushirestaurang i japansk miljö som har funnits sedan år 2006. Maten är alltid baserad på de bästa råvarorna på den svenska råvarumarknaden och gästerna kommer från hela Sverige.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
+          "title": "Kama Sushi",
+          "text": "Kama Sushi erbjuder traditionell restaurang såväl som take away för sina kunder mitt i hjärtat av Kalmar vid Stortorget. Restaurangen är en renodlad sushirestaurang i japansk miljö som har funnits sedan år 2006. Maten är alltid baserad på de bästa råvarorna på den svenska råvarumarknaden och gästerna kommer från hela Sverige.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.dropbox.com/s/golefea94jloz9i/Take%20away%20meny.pdf?dl=1\" data-toolbar=\"-mbrBtnMove\">Meny</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-size": "23px"
             }
           },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "MENY",
-          "meta": "Kama Sushi Storgatan",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-u"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "0",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1334-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1334-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1334-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/6-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1334-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/8-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1334-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-n"
+          "_anchor": "header1-12"
         },
         {
           "_params": {
@@ -339,36 +209,6 @@
           ],
           "_name": "testimonials2",
           "_anchor": "testimonials2-11"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b><br></b></p><p><b>Menyval\n</b></p><p>\n</p><p>1 Kockens val\n</p><p>2 Lax &amp; rullar\n</p><p>3 Lax, räkor &amp; rullar\n</p><p>4 Lax, avokado &amp; rullar\n</p><p>5 Lax, avokado, räkor &amp; rullar\n</p><p>6 Räkor &amp; rullar\n</p><p>7 Vegetarisk\n</p><p>8 Lax\n</p><p>9 Räkor eller Lax &amp; räkor</p>",
-          "text2": "<p><b><br></b></p><p><b>Styckpris\r</b></p><p>Tofu nigiri 15 kr\r</p><p>Lax nigiri 18 kr\r</p><p>Räkor nigiri 18 kr\r</p><p>Omelett nigiri 15 kr\r</p><p>Övriga nigiri 18-20 kr\r</p><p>Norimaki 12 kr</p>",
-          "text3": "<p>&nbsp;&nbsp;&nbsp;&nbsp;</p><p><b>Varmrätter\n</b></p><p>\n</p><p>Yakitori<b> </b>110 kr\n</p><p>Yakiniku 135 kr</p><p><b><br></b></p><p><b>Smått &amp; Gott\n</b></p><p>Spicy Tuna 35 kr\n</p><p>Bläckfisksallad 35 kr\n</p><p>Sjögrässallad 25 kr</p><p><br></p><p><b>Sashimi\n</b></p><p>Stor 180 kr\n</p><p>Liten 125 kr</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-v"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b><br></b></p><p><b>Priser\n</b></p><p>\n<span style=\"font-size: 1.07rem;\">8 bitar\t<b>90 kr&nbsp;</b></span></p><p>10 bitar\t<b>110 kr\n</b></p><p>12 bitar\t<b>120 kr\n</b></p><p>16 bitar\t<b>165 kr\n</b></p><p>Lax (8 bitar)<b>\t105 kr\n</b></p><p>Räkor (8 bitar)\t<b>105 kr\n</b></p><p>Norimaki 6 bitar (Lax, krabbstick, gurka &amp; omelett)\t<b>55 kr\n</b></p><p>California 6 bitar (Krabbstick, omelett, gurka, avokado &amp; chilli mayo)\t<b>55 kr\n</b></p><p>Philadelphia 6 bitar (Lax, gurka, philadelphiaost, avokado &amp; gräslök)\t<b>60 kr</b></p>",
-          "text2": "<p>\n</p><p><br></p><p><b>Dryck\r</b></p><p>Läsk 15 kr</p>",
-          "text3": "<p>\n</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-y"
         },
         {
           "_inherit": "msg-box5",
@@ -480,6 +320,117 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-t"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-n"
         },
         {
           "_tags": [
