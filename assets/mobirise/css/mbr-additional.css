@@ -409,7 +409,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -476,6 +476,19 @@ h6,
   text-align: center;
   font-size: 23px;
 }
+#msg-box4-14 H3 {
+  color: #ffffff;
+}
+#msg-box4-14 P {
+  color: #ffffff;
+  font-size: 23px;
+}
 #msg-box4-s H3 {
+  color: #ffffff;
+}
+#contacts2-15 UL {
+  font-size: 14px;
+}
+#contacts2-15 SPAN {
   color: #ffffff;
 }

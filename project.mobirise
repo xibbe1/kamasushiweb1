@@ -26,10 +26,11 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 39,
-    "versionPublish": "4.3.0",
+    "uniqCompNum": 42,
+    "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -137,7 +138,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc9045-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc2930-640x427.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -165,6 +166,68 @@
           "_anchor": "header1-12"
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#101010",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-dsc3006-400x600.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Öppettider&nbsp;</span>",
+          "text": "<p>Mån-Fre 11.00-20.30\n<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;12.00-20.30\n<br>Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;13.00-20.30<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "msg-box4-14"
+        },
+        {
           "_params": {
             "showTitle": false,
             "showSubtitle": false,
@@ -172,8 +235,8 @@
             "showName": false,
             "showBio": false,
             "count": "1",
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
             "parallax": true,
@@ -328,7 +391,7 @@
             "fullWidth": false,
             "spacing": "0",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": false,
@@ -433,11 +496,6 @@
           "_anchor": "gallery2-n"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-j",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -450,14 +508,27 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "Västra Sjögatan 13, 392 32 Kalmar",
-              "placeId": "ChIJF0ApSWTRV0YR0vxXIh2GLZw",
+              "address": "Storgatan 22 \nKalmar",
+              "placeId": "ChIJl8n2WmTRV0YRTmalqSF4ziM",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<b>Take Away</b><br>Västra Sjögatan 13<br>Kalmar<br>0480-548 78<br><br><b>Restaurang</b><br>Storgatan 22\n<br>Kalmar\n<br>0480-100 26<br><br>Email: kamasushi@outlook.com<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><ul><br></ul>"
+          "text1": "<b>Take Away</b><br>Västra Sjögatan 13<br>Kalmar<br>0480-548 78<br><br><b>Restaurang</b><br>Storgatan 22\n<br>Kalmar\n<br>0480-100 26<br><br><br>Email: kamasushi@outlook.com<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Öppettider&nbsp;</b></span></font><ul><p>Västra Sjögatan 13\n</p><p>Mån-Fre 11.00-20.30\n</p></ul><ul>Lör         12.00-20.30\n</ul><ul><p>Sön.      13.00-20.30</p><p><br></p><p><span style=\"font-size: 0.875rem;\">Storgatan 22</span></p><p>Mån-Fre   11.00-15\n.00</p><p>Mån-Fre   17.00-22\n.00</p><p>Lör            12.00-22.00</p></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "font-size": "14px"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-15"
         }
       ]
     }
