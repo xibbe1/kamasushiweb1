@@ -210,7 +210,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Öppettider&nbsp;</span>",
-          "text": "<p>Mån-Fre 11.00-20.30\n<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;12.00-20.30\n<br>Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;13.00-20.30<br></p>",
+          "text": "<p>Mån-Fre &nbsp;11.00-20.30<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.00-20.30<br>Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;13.00-20.30<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -218,11 +218,13 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "23px"
+              "font-size": "23px",
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box4-14"

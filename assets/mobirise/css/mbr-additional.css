@@ -478,10 +478,12 @@ h6,
 }
 #msg-box4-14 H3 {
   color: #ffffff;
+  text-align: left;
 }
 #msg-box4-14 P {
   color: #ffffff;
   font-size: 23px;
+  text-align: left;
 }
 #msg-box4-s H3 {
   color: #ffffff;
