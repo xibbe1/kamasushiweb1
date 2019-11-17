@@ -27,7 +27,7 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 42,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.10.15",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": []
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/golefea94jloz9i/Take%20away%20meny.pdf?dl=1\">LADDA NER MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb3/\">RESTAURANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-j\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/golefea94jloz9i/Take%20away%20meny.pdf?dl=1\">LADDA NER MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-s\">GALLERI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb3/\">RESTAURANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-j\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_params": {
@@ -138,7 +138,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc2930-640x427.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc2930-640x427.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -191,7 +191,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3006-400x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc3006-400x600.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -210,7 +210,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Öppettider&nbsp;</span>",
-          "text": "<p>Mån-Fre &nbsp;11.00-20.30<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.00-20.30<br>Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;13.00-20.30<br></p>",
+          "text": "<p>Stängt för renovering</p>",
           "_tags": [
             "Theme"
           ],
